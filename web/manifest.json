@@ -1,0 +1,23 @@
+{
+    "name": "sampah",
+    "short_name": "sampah",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "aplikasi manajmen sampah berbasis mobile apps dengan menggunakan flutter dan firebase dan integrasi scan AI Object Detection, scan QR Code, E-Payment API Dana dan Indomaret, API Transfer Bank, dan dilengkapi dengan E Commerce Recycle",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

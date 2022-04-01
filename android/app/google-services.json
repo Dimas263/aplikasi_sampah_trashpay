@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1007930590418",
+    "project_id": "trash-pay",
+    "storage_bucket": "trash-pay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007930590418:android:832d11c8655b33694f990b",
+        "android_client_info": {
+          "package_name": "com.app.sampah_manajemen.sampah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007930590418-8t1puu8840igov6udme7h1b52tbf68v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPy81SZtcjlnk5y-7zDVLwC7YpVABS4yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007930590418-8t1puu8840igov6udme7h1b52tbf68v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
