@@ -104,7 +104,7 @@ class SplashState extends State<Splashscreen> {
               ),
               SizedBox(height: 5),
               Text(
-                "Dimas263",
+                "Dimas Desktop",
                 style: GoogleFonts.montserrat(
                   fontSize: 14.0,
                   fontWeight: FontWeight.bold,
