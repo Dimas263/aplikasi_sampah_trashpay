@@ -1,4 +1,4 @@
-# Trashpay - Solusi Sampah
+# <img src="https://img.icons8.com/color/48/undefined/flutter.png"/> Trashpay - Solusi Sampah
 
 aplikasi manajmen sampah berbasis mobile apps dengan menggunakan flutter dan firebase dan integrasi scan AI Object Detection, scan QR Code, E-Payment API Dana dan Indomaret, API Transfer Bank, dan dilengkapi dengan E Commerce Recycle
 
